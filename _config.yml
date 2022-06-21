@@ -1,6 +1,13 @@
-title: Minimal theme
+title: <p align="center"> Niteesh Kumar Veldandi
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">|
+  <a href="https://www.linkedin.com/in/niteeshkumarveldandi/">LinkedIn</a> |
+  <a href="https://github.com/nittu1999">GitHub</a>
+  
+  <br>   
+  I'm a full time stock market trader.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
